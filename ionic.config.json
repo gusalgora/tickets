@@ -1,0 +1,8 @@
+{
+  "name": "Tickets",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1a45065b"
+}
